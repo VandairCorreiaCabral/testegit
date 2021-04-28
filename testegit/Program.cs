@@ -6,7 +6,7 @@ namespace testegit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("primeira mudança!");
+            Console.WriteLine("primeira mudança !");
         }
     }
 }
